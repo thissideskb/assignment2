@@ -1,2 +1,2 @@
-# DataStructure 
-assignment2
+# assignment2
+Data structure 
